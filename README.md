@@ -4,7 +4,7 @@ This repository documents the structural configuration of a local cybersecurity 
 
 ---
 
-## 🛠️ Lab Overview & Architecture
+##  Lab Overview & Architecture
 
 The objective of this project is to build an isolated, secure, and fully functional virtual environment for conducting ethical hacking practices, penetration testing, and security analysis. 
 
@@ -15,7 +15,7 @@ The objective of this project is to build an isolated, secure, and fully functio
 
 ---
 
-## 💻 Configuration Details
+## Configuration Details
 
 ### 1. Virtualization Base (VirtualBox)
 * **Software:** VirtualBox hypervisor handles the virtualization of the infrastructure.
@@ -37,7 +37,7 @@ To maintain safety and control while preserving the necessary connectivity for u
 
 ---
 
-## 🚀 Steps to Replicate
+## Steps to Replicate
 
 ### Step 1: Create the NATNetwork in VirtualBox
 1. Navigate to **File** > **Tools** > **Network Manager** (or Preferences > Network depending on version).
@@ -57,7 +57,7 @@ To maintain safety and control while preserving the necessary connectivity for u
 
 ---
 
-## 🔍 Verification & Testing
+##  Verification & Testing
 
 - [x] Bidirectional copy-paste functioning successfully.
 - [x] Shared folder `/downloads` accessible by the virtual machine.
