@@ -49,12 +49,12 @@ To maintain safety and control while preserving the necessary connectivity for u
 2. Open VM Settings > **General** > **Advanced** and set **Shared Clipboard** and **Drag'n'Drop** to **Bidirectional**.
 3. Go to **Network** > Attached to: **NAT Network** > Select the network created in Step 1.
 4. Go to **Shared Folders** > Add a new folder path targeting your host's `/downloads` folder. Set it to auto-mount.
-![Kali Linux Desktop Infrastructure](KALI DESKTOP.png)
+![Kali Linux Desktop Infrastructure](KALI%20DESKTOP.png)
 ### Step 3: Configure Guest Operating System Network
 1. Boot into Kali Linux.
 2. Configure the network adapter interface manually to use a static IP topology (`10.0.0.2`).
 3. Verify internet connectivity using `ping 8.8.8.8`.
-![Static IP Subnet Network Assignment](SET ADDRESS.png)
+![Static IP Subnet Network Assignment](SET%20ADDRESS.png)
 ---
 
 ##  Verification & Testing
