@@ -43,18 +43,18 @@ To maintain safety and control while preserving the necessary connectivity for u
 1. Navigate to **File** > **Tools** > **Network Manager** (or Preferences > Network depending on version).
 2. Create a new **NAT Network**.
 3. Set the Network CIDR to `10.0.0.0/24`.
-
+![VirtualBox Network Interface Manager](VIRTUALBOX.png)
 ### Step 2: Deploy and Optimize Kali Linux
 1. Import or install the latest **Kali Linux** image.
 2. Open VM Settings > **General** > **Advanced** and set **Shared Clipboard** and **Drag'n'Drop** to **Bidirectional**.
 3. Go to **Network** > Attached to: **NAT Network** > Select the network created in Step 1.
 4. Go to **Shared Folders** > Add a new folder path targeting your host's `/downloads` folder. Set it to auto-mount.
-
+![Kali Linux Desktop Infrastructure](KALI DESKTOP.png)
 ### Step 3: Configure Guest Operating System Network
 1. Boot into Kali Linux.
 2. Configure the network adapter interface manually to use a static IP topology (`10.0.0.2`).
 3. Verify internet connectivity using `ping 8.8.8.8`.
-
+![Static IP Subnet Network Assignment](SET ADDRESS.png)
 ---
 
 ##  Verification & Testing
@@ -63,3 +63,4 @@ To maintain safety and control while preserving the necessary connectivity for u
 - [x] Shared folder `/downloads` accessible by the virtual machine.
 - [x] Static IP address persistent on `10.0.0.2`.
 - [x] External web access established for downloading updates and repositories.
+![Ping Echo Connectivity Test](TESTCONNECTION.png)
