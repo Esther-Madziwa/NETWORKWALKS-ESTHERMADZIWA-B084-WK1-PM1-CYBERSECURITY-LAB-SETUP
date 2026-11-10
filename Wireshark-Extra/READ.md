@@ -35,3 +35,17 @@ I successfully completed the 6 advanced SOC investigative labs provided by Netwo
 
 ##  Lab Completion Verification
 *Below are the screenshots confirming successful completion and full marks for all 6 challenge sections:*
+
+### 📸 Lab Completion Screenshots
+
+#### Labs 3 & 4 Results
+![Lab 3 Result](./Lab%203%20Result%20-%20MADZIWA%20ESTHER%20TAFADZWA.png)
+![Lab 4 Result](./Lab%204%20Result%20-%20MADZIWA%20ESTHER%20TAFADZWA.png)
+
+#### Labs 5 & 6 Results
+![Lab 5 Result](./Lab%205%20Result%20-%20MADZIWA%20ESTHER%20TAFADZWA.png)
+![Lab 6 Result](./Lab%206%20Result%20-%20MADZIWA%20ESTHER%20TAFADZWA.png)
+
+#### Labs 7 & 8 Results
+![Lab 7 Result](./Lab%207%20Result%20-%20MADZIWA%20ESTHER%20TAFADZWA.png)
+![Lab 8 Result](./Lab%208%20Result%20-%20MADZIWA%20ESTHER%20TAFADZWA.png)
